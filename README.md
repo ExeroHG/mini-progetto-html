@@ -1,3 +1,9 @@
 # mini-progetto-html
 
-aggiornata
+
+
+
+la pagina contiene:
+- about
+- contact
+- index
